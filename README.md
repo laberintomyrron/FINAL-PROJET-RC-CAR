@@ -107,7 +107,7 @@ Before powering on, verify the following:
 
 ##  Build Photos
 
-See the [`media/`](./media/) folder for components images
+See the [`media/`](./media/) folder for RC Car images
 
 ---
 
