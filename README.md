@@ -6,7 +6,7 @@ A custom-built RC car powered by the ESP32 microcontroller — featuring wireles
 
 ##  Preview
 
-![RC Car](media/schematic diagram.jpg)
+![RC Car](media/isometric view.jpg)
 ---
 
 ##  Features
