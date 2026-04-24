@@ -17,7 +17,7 @@ A custom-built RC car powered by the ESP32 microcontroller — featuring wireles
 -  Wireless control via ESP32 (Wi-Fi / Bluetooth)
 -  Motor driver integration
 -  Battery management
--  Modular and easy-to-reproduce design
+-  Easy-to-reproduce design
 
 ---
 
@@ -56,8 +56,7 @@ See the [`schematics/`](./schematics/) folder for full wiring diagrams.
 
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - ESP32 board package installed
-- Required libraries (listed in `Software/`)
-
+  
 ---
 
 ##  Step by step process
@@ -117,6 +116,15 @@ Before powering on, verify the following:
   
 ---
 
+## 📷 Build Photos
+
+[📷 View RC Car Image](media/rc-car.jpg)
+
+---
+
+## Schematic
+
+[📷 View Schematic](schematics/schematic.png)
 ## Author
 
 **Your Name**  
