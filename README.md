@@ -105,15 +105,12 @@ Before powering on, verify the following:
   
 ---
 
-## 📷 Build Photos
+##  Build Photos
 
-[📷 View RC Car Image](media/rc-car.jpg)
+See the [`media/`](./media/) folder for components images
 
 ---
 
-## Schematic
-
-[📷 View Schematic](schematics/schematic.png)
 ## Author
 
 **Your Name**  
