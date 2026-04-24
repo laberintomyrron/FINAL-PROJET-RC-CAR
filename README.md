@@ -1,6 +1,6 @@
 #  RC Car using ESP32
 
-A custom-built RC car powered by the ESP32 microcontroller — featuring wireless control, modular electronics, and fully documented hardware and firmware.
+A custom-built RC car powered by the ESP32 microcontroller featuring wireless control
 
 ---
 
