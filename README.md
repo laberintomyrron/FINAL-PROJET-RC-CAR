@@ -44,15 +44,11 @@ rc-car-esp32/
 | Chassis | RC car frame | 1 |
 | Jumper wires | Connections | — |
 
->  _Update this table with the exact parts you used._
-
 ---
 
 ##  Wiring / Schematics
 
 See the [`schematics/`](./schematics/) folder for full wiring diagrams.
-
-> _Tip: Tools like Fritzing or KiCad work great for documenting your circuit._
 
 ---
 
