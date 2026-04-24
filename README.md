@@ -20,6 +20,10 @@ A custom-built RC car powered by the ESP32 microcontroller — featuring wireles
 
 ##  Parts List
 
+---
+
+See the [`parts/`](./parts/) folder for components images
+
 | Component | Description | Qty |
 |---|---|---|
 | ESP32 Dev Board | Main microcontroller | 1 |
