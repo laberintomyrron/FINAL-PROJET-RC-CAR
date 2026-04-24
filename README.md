@@ -21,18 +21,6 @@ A custom-built RC car powered by the ESP32 microcontroller — featuring wireles
 
 ---
 
-##  Repository Structure
-
-```
-rc-car-esp32/
-├── software/        # ESP32 source code (.ino / .cpp)
-├── schematics/      # Wiring diagrams 
-├── media/           # Photos, videos
-└── README.md
-```
-
----
-
 ##  Parts List
 
 | Component | Description | Qty |
