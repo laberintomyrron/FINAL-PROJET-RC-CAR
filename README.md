@@ -15,7 +15,8 @@ A custom-built RC car powered by the ESP32 microcontroller featuring wireless co
 -  Motor driver integration
 -  Battery management
 -  Easy-to-reproduce design
-
+-  Wireless Control
+  
 ---
 
 ##  Parts List
