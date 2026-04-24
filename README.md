@@ -114,5 +114,5 @@ See the [`media/`](./media/) folder for RC Car images
 
 ## Author
 
-**Your Name**  
+**Myrron Laberinto**  
 GitHub: [laberintomyrron](https://github.com/laberintomyrron)
